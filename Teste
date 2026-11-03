@@ -1,0 +1,17 @@
+print("bem vindo ao seu jogo!!")
+print("siga o tutorial para continuar. ")
+print("use a tecla E para equipar itens")
+
+inventario=["espada", "escudo", "poção"]
+for item in inventario:
+  print("voce encontrou algo!", item)
+ 
+  if item == "espada":
+        print("você pegou uma  arma!")
+        
+  if item == "escudo":
+        print("você pegou um item de defesa")
+   
+  if item =="poção":
+        print("você pegou um item magico!!!")
+        print("voce completou o tutorial, parabens!")
