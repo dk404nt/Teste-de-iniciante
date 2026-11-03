@@ -1,7 +1,1 @@
-idade = 18
-
-
-if idade > 18:
-    print("acesso liberado")
-else:
-    print("acesso negado")
+apenas uma pacote com código iniciante de pyton.
